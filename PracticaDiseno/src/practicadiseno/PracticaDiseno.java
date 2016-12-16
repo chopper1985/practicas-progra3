@@ -17,11 +17,11 @@ public class PracticaDiseno {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        ImpresoraNormal impresora1 = new ImpresoraNormal( "pdf","a4",true,"text 1");
-        ImpresoraAdicional impresora2 = new ImpresoraAdicional("execel","a3",false,"text 2");
-        System.out.println(impresora1);
-        System.out.println(impresora2);
-        
+//        ImpresoraNormal impresora1 = new ImpresoraNormal( "pdf","a4",true,"text 1");
+//        ImpresoraAdicional impresora2 = new ImpresoraAdicional("execel","a3",false,"text 2");
+//        System.out.println(impresora1);
+//        System.out.println(impresora2);
+//        
         
     }
     
